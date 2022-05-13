@@ -1,6 +1,6 @@
 ## Olá, bem-vindo ao meu GitHub! 👩🏽‍💻
-### Graduanda em Análise e Desenvolvimento de Sistemas
-### Estudando JavaScript.
+### Graduanda em Análise e Desenvolvimento de Sistemas na UNIT-PE.
+### Estudando JavaScript. ⏳
 
 
 <div align="center">
