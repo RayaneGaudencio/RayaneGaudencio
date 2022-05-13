@@ -1,4 +1,7 @@
-### Olá, bem-vindo ao meu GitHub! 👩🏽‍💻
+## Olá, bem-vindo ao meu GitHub! 👩🏽‍💻
+### Graduanda em Análise e Desenvolvimento de Sistemas
+### Estudando JavaScript.
+
 
 <div align="center">
   <a href="https://github.com/RayaneGaudencio">
